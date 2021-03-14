@@ -4,6 +4,7 @@ import {
   Button,
   HeaderBack,
   HeadingXL,
+  HeadingL,
   Image,
   Layout,
   SEO,
@@ -20,7 +21,10 @@ export default function About({data}) {
         <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
         <TextBody>
         A professional with strong experience in high functioning product development and project management environments. Highly adaptable with recognized talents working with E-Commerce solutions such as Magento as well as being proficient in aligning software requirements with innovative solutions to complex IT challenges. Continually on the forefront of developing trends integrating current and emerging cutting-edge technologies and peripheral processes to deliver impactful results.<br />
-        EXPERTISE<br />
+        </TextBody>
+
+        <HeadingL>EXPERTISE</HeadingL>
+        <TextBody>
         Professional Completencies<br /><br />
         Project Management<br />
         Product Management<br />
@@ -42,7 +46,6 @@ export default function About({data}) {
         Outsourcing Specialist<br />
         Budget Proposals<br />
         KPI Measurement<br /><br />
-
        </TextBody>
         <Button href="mailto:marcelo.alvarez@me.com">Get in touch</Button>
       </Layout>
