@@ -27,6 +27,15 @@ export function HeaderLogo() {
       <Link to="/experience">
         <p>Experience</p>
       </Link>
+      <Link to="/experience">
+        <p>Experience</p>
+      </Link>
+      <Link to="/experience">
+        <p>Experience</p>
+      </Link>
+      <Link to="/experience">
+        <p>Experience</p>
+      </Link>
     </HeaderWrapper>
   )
 }
