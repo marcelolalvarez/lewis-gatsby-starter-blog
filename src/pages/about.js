@@ -24,7 +24,7 @@ export default function About({data}) {
 
         <HeadingL>Expertise</HeadingL>
         <TextBody>
-        ## Professional Competencies
+        Professional Competencies
 
 * Project Management
 * Product Management
@@ -47,7 +47,7 @@ Outsourcing Specialist
 Budget Proposals
 KPI Measurement
 
-## Platform Expertise
+Platform Expertise
 
 Project Management - Jira, Trello, BaseCamp, Smartsheet, Microsoft Project, Freedcamp.
 Analytics - Google Analytics, WebTrends
