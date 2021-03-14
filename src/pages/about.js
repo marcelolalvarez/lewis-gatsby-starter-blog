@@ -13,7 +13,7 @@ import {
 export default function About({data}) {
   return (
     <>
-      <SEO title="About" />
+      <SEO title="Marcelo Alvarez, Full Stack E-commerce Project Manager" />
       <HeaderBack />
       <Layout>
         <HeadingXL>Full Stack E-commerce Project Manager</HeadingXL>
@@ -29,7 +29,7 @@ export default function About({data}) {
           estimable as. Nay any article enabled musical shyness yet sixteen yet
           blushes. Entire its the did figure wonder off.
         </TextBody>
-        <Button href="mailto:your&#64;email.com">Get in touch</Button>
+        <Button href="mailto:marcelo.alvarez@me.com">Get in touch</Button>
       </Layout>
     </>
   )
