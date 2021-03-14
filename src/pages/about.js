@@ -16,14 +16,10 @@ export default function About({data}) {
       <SEO title="About" />
       <HeaderBack />
       <Layout>
-        <HeadingXL>About</HeadingXL>
+        <HeadingXL>Full Stack E-commerce Project Manager</HeadingXL>
         <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
         <TextBody>
-          Building mr concerns servants in he outlived am breeding. He so lain
-          good miss when sell some at if. Told hand so an rich gave next. How
-          doubt yet again see son smart. While mirth large of on front. Ye he
-          greater related adapted proceed entered an. Through it examine express
-          promise no. Past add size game cold girl off how old.
+        A professional with strong experience in high functioning product development and project management environments. Highly adaptable with recognized talents working with E-Commerce solutions such as Magento as well as being proficient in aligning software requirements with innovative solutions to complex IT challenges. Continually on the forefront of developing trends integrating current and emerging cutting-edge technologies and peripheral processes to deliver impactful results.
           <br />
           <br />
           Bringing so sociable felicity supplied mr. September suspicion far him
