@@ -51,9 +51,10 @@ export default function Home({data}) {
       <HeaderLogo />
       <Layout>
         <Hero>
-          <HeadingXL>Marcelo Alvarez, Product Owner</HeadingXL>
+          <HeadingXL>Marcelo Alvarez.</HeadingXL>
           <TextHome>
-          accountable for maximizing the value of the product resulting from the work of the Scrum Team.
+          I collaborate with ambitious brands and people.<br />
+Let’s work on something great together.
           </TextHome>
         </Hero>
         {data.allMarkdownRemark.edges.map(({node}) => (
