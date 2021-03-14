@@ -16,10 +16,47 @@ export default function experience({data}) {
       <SEO title="Marcelo Alvarez, Full Stack E-commerce Project Manager" />
       <HeaderBack />
       <Layout>
-        <HeadingXL>Full Stack E-commerce Project Manager</HeadingXL>
+        <HeadingXL>Experience</HeadingXL>
         <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
         <TextBody>
-        A professional with strong experience in high functioning product development and project management environments. Highly adaptable with recognized talents working with E-Commerce solutions such as Magento as well as being proficient in aligning software requirements with innovative solutions to complex IT challenges. Continually on the forefront of developing trends integrating current and emerging cutting-edge technologies and peripheral processes to deliver impactful results.
+        EMPLOYMENT
+Pet Supermarket - February 2021 - Now:IT Project Manager/Business Analyst<br />
+
+
+HBO Latin America - September 2019 - February 2021: Technical Project Manager<br />
+
+Deluxe - September 2019 - March 2019
+Magento Technical Consultant - Cloud Hosting Platform<br />
+
+Comodo - March 2019-August 2019
+Partner Success Manager<br />
+
+Ambitec - March 2017 - February 2019
+Magento eCommerce Project Manager<br />
+
+Rank Advisor - Sept 2013 - February 2017
+Digital Project Manager<br />
+
+Factor Móvil - Jul 2011 - Sept 2013
+Digital Project Manager<br />
+
+Universe of Faith - Sept 2009 - Jul 2011
+IT Director<br />
+
+Children's Oncology Group/CureSearch - July 2000 - Sept 2009
+Manager of Web Technologies<br />
+
+PROJECTS I HAVE MANAGED
+WEBSITES: CureSearch, Nervous Waters, Abaco Lodge, 770 Rent a Acar, Childrens Oncology Group, David Denies, Red Stag Patagonia, MHKA, Universal Dance Studios Miami<br />
+ECOMMERCE WEBSITES<br />
+Verizon Dominican Republic (Episerver), Acemarks (Magento), Venettini (Magento), Abtbeads (Magento), GlobalBiosScience (Magento), RTS Tactical (Magento), Ambitec (Magento), Universe of Faith (Magento)
+, Christian Books (Magento), Christian Sermons (Magento), Christian Music (Magento), Universe of Faith (Magento), Club La Nacion (Magento).<br />
+WEB APPLICATIONS<br />
+Nationwide Logistic Solutions, Meyda, MyWifiWiz, Enhanced Remote Data Entry Systems.<br />
+APPLICATIONS<br />
+PeopleSoft Upgrade, MOBILE APPS, Universe of Faith. <br />
+INFRASTRUCTURE<br />
+Office 365 Migration for 1500+ accounts, Okta Applications Migration.
         </TextBody>
         <Button href="mailto:marcelo.alvarez@me.com">Get in touch</Button>
       </Layout>
