@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Marcelo Alvarez, Full stack E-commerce Project Manager`,
     description: `A custom Gatsby starter template to start a blog or personal website.`,
-    siteUrl: `po.marceloalvarez.dev`,
+    siteUrl: `pm.marceloalvarez.dev`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
