@@ -55,8 +55,6 @@ export default function Home({data}) {
           <TextHome>
           I collaborate with ambitious brands and people.<br />
 Let’s work on something great together.<br />
-FULL STACK E-COMMERCE PROJECT MANAGER<br />
-A professional with strong experience in high functioning product development and project management environments. Highly adaptable with recognized talents working with E-Commerce solutions such as Magento as well as being proficient in aligning software requirements with innovative solutions to complex IT challenges. Continually on the forefront of developing trends integrating current and emerging cutting-edge technologies and peripheral processes to deliver impactful results.
 
           </TextHome>
         </Hero>
