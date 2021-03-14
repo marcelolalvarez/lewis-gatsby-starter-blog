@@ -1,5 +1,5 @@
 ---
-title: "THE RETAIL TRENDS FOR 2021"
+title: "The Retail Trends for 2021"
 date: "2021-01-16"
 ---
 
