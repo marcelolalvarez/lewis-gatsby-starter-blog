@@ -19,7 +19,7 @@ export default function experience({data}) {
         <HeadingXL>Experience</HeadingXL>
         <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
         <TextBody>
-        EMPLOYMENT
+        <strong>EMPLOYMENT</strong><br />
 Pet Supermarket - February 2021 - Now: IT Project Manager/Business Analyst.<br />
 HBO Latin America - September 2019 - February 2021: Technical Project Manager.<br />
 Deluxe - September 2019 - March 2019: Magento Technical Consultant - Cloud Hosting Platform.<br />
