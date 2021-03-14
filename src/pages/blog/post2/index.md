@@ -1,6 +1,6 @@
 ---
 title: "What is Buy Now, Pay Later?"
-date: "2019-03-22"
+date: "2020-11-19"
 ---
 
 When you create an online store, it’s very important to provide your customers with as many payment options as possible. Buy now pay later is a unique payment approach that, as the name says, allows customers to purchase a product in installments. That means they initiate the purchase, pay for one installment and receive the product. Not everyone is able to purchase some products, so having this type of financing without interest or a low amount of interest is a very good idea.
