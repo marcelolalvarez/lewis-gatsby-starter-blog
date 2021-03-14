@@ -51,7 +51,7 @@ export default function Home({data}) {
       <HeaderLogo />
       <Layout>
         <Hero>
-          <HeadingXL>Lewis Gatsby Starter Blog</HeadingXL>
+          <HeadingXL>Marcelo Alvarez, Product Owner</HeadingXL>
           <TextHome>
             This is a custom Gatsby starter template to start a new blog or
             personal website.
