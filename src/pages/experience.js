@@ -20,31 +20,15 @@ export default function experience({data}) {
         <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
         <TextBody>
         EMPLOYMENT
-Pet Supermarket - February 2021 - Now:IT Project Manager/Business Analyst<br />
-
-
-HBO Latin America - September 2019 - February 2021: Technical Project Manager<br />
-
-Deluxe - September 2019 - March 2019
-Magento Technical Consultant - Cloud Hosting Platform<br />
-
-Comodo - March 2019-August 2019
-Partner Success Manager<br />
-
-Ambitec - March 2017 - February 2019
-Magento eCommerce Project Manager<br />
-
-Rank Advisor - Sept 2013 - February 2017
-Digital Project Manager<br />
-
-Factor Móvil - Jul 2011 - Sept 2013
-Digital Project Manager<br />
-
-Universe of Faith - Sept 2009 - Jul 2011
-IT Director<br />
-
-Children's Oncology Group/CureSearch - July 2000 - Sept 2009
-Manager of Web Technologies<br />
+Pet Supermarket - February 2021 - Now: IT Project Manager/Business Analyst.<br />
+HBO Latin America - September 2019 - February 2021: Technical Project Manager.<br />
+Deluxe - September 2019 - March 2019: Magento Technical Consultant - Cloud Hosting Platform.<br />
+Comodo - March 2019-August 2019: Partner Success Manager.<br />
+Ambitec - March 2017 - February 2019: Magento eCommerce Project Manager.<br />
+Rank Advisor - Sept 2013 - February 2017: Digital Project Manager.<br />
+Factor Móvil - Jul 2011 - Sept 2013: Digital Project Manager.<br />
+Universe of Faith - Sept 2009 - Jul 2011: IT Director.<br />
+Children's Oncology Group/CureSearch - July 2000 - Sept 2009: Manager of Web Technologies.<br />
 
 PROJECTS I HAVE MANAGED
 WEBSITES: CureSearch, Nervous Waters, Abaco Lodge, 770 Rent a Acar, Childrens Oncology Group, David Denies, Red Stag Patagonia, MHKA, Universal Dance Studios Miami<br />
