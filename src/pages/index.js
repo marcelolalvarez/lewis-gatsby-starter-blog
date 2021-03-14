@@ -53,8 +53,7 @@ export default function Home({data}) {
         <Hero>
           <HeadingXL>Marcelo Alvarez, Product Owner</HeadingXL>
           <TextHome>
-            This is a custom Gatsby starter template to start a new blog or
-            personal website.
+          accountable for maximizing the value of the product resulting from the work of the Scrum Team.
           </TextHome>
         </Hero>
         {data.allMarkdownRemark.edges.map(({node}) => (
