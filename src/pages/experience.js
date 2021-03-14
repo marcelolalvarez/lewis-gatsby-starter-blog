@@ -30,15 +30,16 @@ Factor Móvil - Jul 2011 - Sept 2013: Digital Project Manager.<br />
 Universe of Faith - Sept 2009 - Jul 2011: IT Director.<br />
 Children's Oncology Group/CureSearch - July 2000 - Sept 2009: Manager of Web Technologies.<br />
 
-PROJECTS I HAVE MANAGED
-WEBSITES: CureSearch, Nervous Waters, Abaco Lodge, 770 Rent a Acar, Childrens Oncology Group, David Denies, Red Stag Patagonia, MHKA, Universal Dance Studios Miami<br />
+PROJECTS I HAVE MANAGED<br /><br />
+WEBSITES<br />
+CureSearch, Nervous Waters, Abaco Lodge, 770 Rent a Acar, Childrens Oncology Group, David Denies, Red Stag Patagonia, MHKA, Universal Dance Studios Miami<br /><br />
 ECOMMERCE WEBSITES<br />
 Verizon Dominican Republic (Episerver), Acemarks (Magento), Venettini (Magento), Abtbeads (Magento), GlobalBiosScience (Magento), RTS Tactical (Magento), Ambitec (Magento), Universe of Faith (Magento)
-, Christian Books (Magento), Christian Sermons (Magento), Christian Music (Magento), Universe of Faith (Magento), Club La Nacion (Magento).<br />
+, Christian Books (Magento), Christian Sermons (Magento), Christian Music (Magento), Universe of Faith (Magento), Club La Nacion (Magento).<br /><br />
 WEB APPLICATIONS<br />
-Nationwide Logistic Solutions, Meyda, MyWifiWiz, Enhanced Remote Data Entry Systems.<br />
+Nationwide Logistic Solutions, Meyda, MyWifiWiz, Enhanced Remote Data Entry Systems.<br /><br />
 APPLICATIONS<br />
-PeopleSoft Upgrade, MOBILE APPS, Universe of Faith. <br />
+PeopleSoft Upgrade, MOBILE APPS, Universe of Faith. <br /><br />
 INFRASTRUCTURE<br />
 Office 365 Migration for 1500+ accounts, Okta Applications Migration.
         </TextBody>
