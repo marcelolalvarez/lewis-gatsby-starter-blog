@@ -28,7 +28,7 @@ export default function experience({data}) {
 <strong>Rank Advisor</strong> - Sept 2013 - February 2017: Digital Project Manager.<br />
 <strong>Factor Móvil</strong> - Jul 2011 - Sept 2013: Digital Project Manager.<br />
 <strong>Universe of Faith</strong> - Sept 2009 - Jul 2011: IT Director.<br />
-<strong>Children's Oncology Group/CureSearch</strong> - July 2000 - Sept 2009: Manager of Web Technologies.<br /><br />
+<strong>Children's Oncology Group/CureSearch</strong> - July 2000 - Sept 2009: Manager of Web Technologies.<br /><br /><br />
 
 <strong>PROJECTS I HAVE MANAGED</strong><br /><br />
 <strong>WEBSITES</strong><br />
