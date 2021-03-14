@@ -19,51 +19,31 @@ export default function About({data}) {
         <HeadingXL>Full Stack E-commerce Project Manager</HeadingXL>
         <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
         <TextBody>
-        A professional with strong experience in high functioning product development and project management environments. Highly adaptable with recognized talents working with E-Commerce solutions such as Magento as well as being proficient in aligning software requirements with innovative solutions to complex IT challenges. Continually on the forefront of developing trends integrating current and emerging cutting-edge technologies and peripheral processes to deliver impactful results.
-       
-      Expertise
-        Professional Competencies
+        A professional with strong experience in high functioning product development and project management environments. Highly adaptable with recognized talents working with E-Commerce solutions such as Magento as well as being proficient in aligning software requirements with innovative solutions to complex IT challenges. Continually on the forefront of developing trends integrating current and emerging cutting-edge technologies and peripheral processes to deliver impactful results.<br />
+        EXPERTISE<br />
+        Professional Completencies<br /><br />
+        Project Management<br />
+        Product Management<br />
+        Agile<br />
+        Waterfall<br />
+        SDLC<br />
+        Strategic Partnerships<br />
+        Usability Testing<br />
+        Web/Application Design<br />
+        SEO/SEM<br />
+        Agency Management<br />
+        Optimization<br />
+        Exec Communication<br />
+        Analytics<br />
+        Ecommerce Strategy<br />
+        Cloud<br />
+        Business Requirements<br />
+        Team Buildup<br />
+        Outsourcing Specialist<br />
+        Budget Proposals<br />
+        KPI Measurement<br /><br />
 
-* Project Management
-* Product Management
-* Agile
-Waterfall
-SDLC
-Strategic Partnerships
-Usability Testing
-Web/Application Design
-SEO/SEM
-Agency Management
-Optimization
-Exec Communication
-Analytics
-Ecommerce Strategy
-Cloud
-Business Requirements
-Team Buildup
-Outsourcing Specialist
-Budget Proposals
-KPI Measurement
-
-Platform Expertise
-
-Project Management - Jira, Trello, BaseCamp, Smartsheet, Microsoft Project, Freedcamp.
-Analytics - Google Analytics, WebTrends
-Ecommerce - Magento, Woocommerce
-CMS - Word Press, Drupal
-System Diagramming - Lucidchart, Microsoft Visio, Balsamiq
-Design - Photoshop
-Other - MS Office 365, OneNote, Sharepoint 365, Confluence, Zendesk, Kayako.
-
-
-
-
-
-
-
-
-
-        </TextBody>
+       </TextBody>
         <Button href="mailto:marcelo.alvarez@me.com">Get in touch</Button>
       </Layout>
     </>
