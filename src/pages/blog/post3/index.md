@@ -3,7 +3,7 @@ title: "What is Headless Commerce?"
 date: "2020-09-16"
 ---
 
-![photo](headlesscommerce.png)
+![photo](headless-commerce.png)
 
 ## What is Headless Commerce?
 
