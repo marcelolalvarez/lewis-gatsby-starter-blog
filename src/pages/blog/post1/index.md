@@ -3,7 +3,7 @@ title: "THE RETAIL TRENDS FOR 2021"
 date: "2021-01-16"
 ---
 
-![photo](post1photo1.jpg)
+![photo](ecommerce-trends-2021.png)
 
 The Coronavirus pandemic has changed how people are shopping for their desired products. More and more buyers are choosing the online world thanks to convenience and safety. However, retail stores are still going strong, but now they need to adapt as much as possible. Here we are focused on some of the most popular Retail Trends that you will encounter in 2021.
 
