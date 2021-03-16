@@ -19,7 +19,7 @@ export default function expertise({data}) {
         <HeadingXL>Expertise</HeadingXL>
         <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
         <TextBody>
-        Professional Competencies<br /> <br />
+        <strong>PROFESSIONAL COMPETENCIES</strong><br /> <br />
         Project Management<br />
         Product Management<br />
         Agile<br />
@@ -41,7 +41,7 @@ export default function expertise({data}) {
         Budget Proposals<br />
         KPI Measurement<br /><br />
 
-        Platform Expertise<br /><br />
+        <strong>PLATFORM EXPERTISE</strong><br /><br />
         Project Management - Jira, Trello, BaseCamp, Smartsheet, Microsoft Project, Freedcamp.
 Analytics - Google Analytics, WebTrends
 Ecommerce - Magento, Woocommerce
