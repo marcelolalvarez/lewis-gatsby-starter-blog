@@ -16,7 +16,7 @@ export default function expertise({data}) {
       <SEO title="Marcelo Alvarez, Full Stack E-commerce Project Manager" />
       <HeaderBack />
       <Layout>
-        <HeadingXL>Experience</HeadingXL>
+        <HeadingXL>Expertise</HeadingXL>
         <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
         <TextBody>
         Professional Competencies<br /> <br />
