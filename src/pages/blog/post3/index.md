@@ -58,4 +58,4 @@ As you can see, headless commerce is one of the best methods you can use in orde
 * Uber
 * Spotify
 * Netflix
-* "Zalando
+* Zalando

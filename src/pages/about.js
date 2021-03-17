@@ -23,11 +23,11 @@ export default function About({data}) {
         <TextBody>
         A professional with strong experience in high functioning product development and project management environments. Highly adaptable with recognized talents working with E-Commerce solutions such as Magento as well as being proficient in aligning software requirements with innovative solutions to complex IT challenges. Continually on the forefront of developing trends integrating current and emerging cutting-edge technologies and peripheral processes to deliver impactful results.<br /><br />
         <Link to="/experience">
-        <p>Experience</p>
+        <li>Experience </li>
       </Link>
 
       <Link to="/expertise">
-        <p>Expertise</p>
+        <li>Expertise</li>
       </Link>
 
         
