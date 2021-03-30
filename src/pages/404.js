@@ -24,7 +24,7 @@ export default function NotFoundPage() {
           <TextBody style={{textAlign: "center"}}>
             This page doesn&#39;t exist{" "}
             <span role="img" aria-label="duh">
-              😓
+              😓 Uy!!!
             </span>
           </TextBody>
           <Link to="/">
