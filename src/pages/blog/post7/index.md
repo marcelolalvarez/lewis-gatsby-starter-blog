@@ -1,43 +1,34 @@
 ---
-title: "The Retail Trends for 2021"
-date: "2021-01-16"
+title: "Five reasons why your ecommerce site is so important for your business"
+date: "2019-09-15"
 ---
 
-![photo](ecommerce-trends-2021.png)
+![photo](magento.png)
 
-The Coronavirus pandemic has changed how people are shopping for their desired products. More and more buyers are choosing the online world thanks to convenience and safety. However, retail stores are still going strong, but now they need to adapt as much as possible. Here we are focused on some of the most popular Retail Trends that you will encounter in 2021.
+Here are five reasons why your Ecommerce site is so important for your business, not only during the holidays, but at any time of year.
 
-## OMNICHANNEL SOLUTIONS
+Most businesses realize the importance of having a good website. Making your business presence known online can be crucial to the success of any business, especially in today’s competitive market. Having a quality website up and running is never more important than around the holidays, when online sales can make up anywhere from 20%-40% of the annual sales of the business. Here are five reasons why your Ecommerce site is so important for your business, not only during the holidays, but at any time of year.
 
-One of the things you will encounter in 2021 when it comes to retail is definitely the omnichannel approach. That means retailers will connect multiple technologies like IoT, robotics, VR, AR and AI. This means it will be easier than ever for customers to gain access to various products and even test them out. Some online retailers are going for offline customers too, which is something to keep in mind.
+## Online Sales Outweigh Sales Made Offline
 
-## AUTOMATED FULFILLMENT AND DELIVERIES
+Many people enjoy the convenience factor of being able to shop from home, whether it be in their pajamas at 3am, or on their lunch hour from work. Online shopping makes things easy and eliminates a trip to the store to make purchases. Therefore, it is important to have your website updated and running smoothly for customers.
 
-Since retailers need to adapt due to the pandemic, it’s easy to see why there’s a massive demand for online deliveries. Even in these situations there can be some contaminations, so many retailers are choosing to go for things like automation in these situations. It helps immensely, and it definitely has the potential to bring in front state of the art results all the time.
 
-## PERSONALIZED SHOPPING
+## Websites Influence Purchase Decisions
 
-It’s getting harder and harder for retailers to sell with a generalized approach. That’s why personalization is so important at this time. That’s especially true for online retailers. Recommendation engines are becoming incredibly important, and there are a vast range of other things to consider here, like using AI for studying previous purchases, among others. This can also be used in offline retail, where all the info can be provided to the staff when a customer come to the store, they get to know their online preferences.
+It has been shown that many consumers will check out a company’s websites for information about a product they are interested in. It is thought that half of purchases made in stores are the result of consumers having visited the business website first before making the decision to buy.
 
-## SAME-DAY DELIVERIES
+## Holiday Sales
 
-People are getting more and more anxious to acquire their products, so having fast deliveries is crucial for retailers. Same-day or even faster deliveries are quickly becoming the norm. Retailers need to adapt their logistics approach in order to deliver better value and quality to their customers. And yes, fast deliveries are definitely a crucial aspect to keep in mind.
+Many people now do their shopping online for the holidays. By viewing various websites, they are able to compare and decide upon which purchases to make. With so many sales online, if your business falls behind in developing or properly maintaining their Ecommerce site, this could mean a significant loss of revenue.
 
-## SMART SPEAKER SHOPPING
+## Websites Inspire Shoppers
 
-At first some thought it was just a fad, but the truth is that more and more people are relying on online speakers to buy the products they want. The great thing about using this type of system is that it encourages faster shopping, while bringing more convenience every time. It definitely helps buyers focus on what they want, without having to worry.
+Many shoppers will do a bit of browsing online before deciding to order online or make the trip to the physical store. With the state of the economy, people like to know a bit about the products they are interested in before making their decisions to buy or not to buy. This is why a quality website can benefit any business and increase interest and sales.
 
-## MORE PEOPLE ARE USING CHATBOTS
+## Maximizing Your Ecommerce Site For More Sales
 
-One of the interesting things about Retail Trends is that they never cease to amaze us. In this case, more and more people started using chatbots. That’s great, because it helps provide a wonderful experience while allowing the customer support staff to tackle pretty much every challenge that might appear without any worries.
+By taking a few steps to maximize your site to make it an ideal shopping environment, you can greatly increase your potential for sales. Make sure you site is equipped to handle peak times of traffic, such as Black Friday and Cyber Monday. Keep you site running quickly and smoothly so shoppers don’t get frustrated. Make your website offerings easily to search and find for maximum exposure. Stay up to date on website and mobile app information. Take advantage of using social media to promote your business.
 
-## MORE FOCUS ON SELF-CARE AND PERSONAL HEALTH
-
-The pandemic has shown that it’s pivotal to take good care of ourselves. And yes, more and more customers are interested in this type of products. That being said, retailers are taking notice, and even the ones not specialized in this industry still tend to sell or at least provide health and self-care products to customers.
-
-## CONCLUSION
-
-Since Retail Trends are always changing, it’s crucial to adapt to them and focus on growth and success in the long run. All of these trends are very popular right now, and many retailers are already taking notice. Offering outstanding services is crucial for all these platforms, and they are constantly trying to adapt and implement powerful solutions that will help satisfy their customers. Sure, the pandemic has changed things, but in the end retailers will always find new ways to reach customers in an adequate manner.
-
-Image credit https://www.wordstream.com
+Conclusion By realizing the importance of a well running Ecommerce site, your business is sure to gain the traffic and attention it deserves.
 
