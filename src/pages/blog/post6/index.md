@@ -1,6 +1,6 @@
 ---
 title: "How to Use Twitter to Sell Homes in Just 15 Minutes a Day"
-date: "2021-01-16"
+date: "2017-08-25"
 ---
 
 ![photo](ecommerce-trends-2021.png)

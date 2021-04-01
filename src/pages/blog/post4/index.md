@@ -1,6 +1,6 @@
 ---
 title: "How to Install Jekyll on Ubuntu"
-date: "2021-01-16"
+date: "2020-03-11"
 ---
 
 ![photo](ecommerce-trends-2021.png)
