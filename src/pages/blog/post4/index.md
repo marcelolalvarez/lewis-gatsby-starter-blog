@@ -1,5 +1,5 @@
 ---
-title: "The Retail Trends for 2021"
+title: "How to Install Jekyll on Ubuntu"
 date: "2021-01-16"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "The Retail Trends for 2021"
+title: "How to Use Twitter to Sell Homes in Just 15 Minutes a Day"
 date: "2021-01-16"
 ---
 
