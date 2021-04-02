@@ -51,7 +51,7 @@ Office 365 Migration for 1500+ accounts, Okta Applications Migration.
 
 export const data = graphql`
   query {
-    RandomPhoto: file(relativePath: {eq: "assets/images/experience.jpeg"}) {
+    RandomPhoto: file(relativePath: {eq: "assets/images/my_experience.png"}) {
       childImageSharp {
         fluid(maxWidth: 1400) {
           ...GatsbyImageSharpFluid_withWebp

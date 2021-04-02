@@ -58,7 +58,7 @@ Other - MS Office 365, OneNote, Sharepoint 365, Confluence, Zendesk, Kayako.
 
 export const data = graphql`
   query {
-    RandomPhoto: file(relativePath: {eq: "assets/images/expertise.jpeg"}) {
+    RandomPhoto: file(relativePath: {eq: "assets/images/my_expertise.png"}) {
       childImageSharp {
         fluid(maxWidth: 1400) {
           ...GatsbyImageSharpFluid_withWebp
