@@ -32,7 +32,7 @@ export default function About({data}) {
         
         </TextBody>
        
-        <Button href="mailto:marcelo.alvarez@me.com">Get in touch</Button>
+        <Button href="contact">Get in touch</Button>
       </Layout>
     </>
   )
