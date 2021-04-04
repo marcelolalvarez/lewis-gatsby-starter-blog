@@ -15,6 +15,7 @@ const Logo = styled.p`
 
   @media (max-width: ${BREAKPOINT}px) {
     font-size: 28px;
+    margin: auto;
   }
 `
 

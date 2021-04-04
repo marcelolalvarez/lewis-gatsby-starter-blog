@@ -3,7 +3,7 @@ import {Link} from "gatsby"
 import {graphql} from "gatsby"
 import {
   Button,
-  HeaderBack,
+  HeaderLogo,
   HeadingXL,
   HeadingL,
   Image,
@@ -16,7 +16,7 @@ export default function About({data}) {
   return (
     <>
       <SEO title="Marcelo Alvarez, Full Stack E-commerce Project Manager" />
-      <HeaderBack />
+      <HeaderLogo />
       <Layout>
         <HeadingXL>Full Stack E-commerce Project Manager</HeadingXL>
         <Image fluid={data.RandomPhoto.childImageSharp.fluid} />

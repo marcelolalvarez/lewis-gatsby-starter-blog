@@ -2,7 +2,7 @@ import React from "react"
 import {graphql} from "gatsby"
 import {
   Button,
-  HeaderBack,
+  HeaderLogo,
   HeadingXL,
   Image,
   Layout,
@@ -14,7 +14,7 @@ export default function expertise({data}) {
   return (
     <>
       <SEO title="Marcelo Alvarez, Full Stack E-commerce Project Manager" />
-      <HeaderBack />
+      <HeaderLogo />
       <Layout>
         <HeadingXL>Expertise</HeadingXL>
         <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
