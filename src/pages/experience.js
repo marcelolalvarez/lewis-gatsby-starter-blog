@@ -1,14 +1,13 @@
 import React from "react"
-import {graphql} from "gatsby"
 import {
   Button,
   HeaderLogo,
   HeadingXL,
-  Image,
   Layout,
   SEO,
   TextBody,
 } from "../components"
+import imageAsset from '../assets/images/myexperience.svg'
 
 export default function experience({data}) {
   return (
@@ -17,7 +16,7 @@ export default function experience({data}) {
       <HeaderLogo />
       <Layout>
         <HeadingXL>Experience</HeadingXL>
-        <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
+        <img src={imageAsset} alt='Experience' />
         <TextBody>
         <strong>EMPLOYMENT</strong><br /><br />
 <strong>Pet Supermarket</strong> - February 2021 - Now: IT Project Manager/Business Analyst.<br />
@@ -48,15 +47,3 @@ Office 365 Migration for 1500+ accounts, Okta Applications Migration.
     </>
   )
 }
-
-export const data = graphql`
-  query {
-    RandomPhoto: file(relativePath: {eq: "assets/images/my_experience.png"}) {
-      childImageSharp {
-        fluid(maxWidth: 1400) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
-      }
-    }
-  }
-`

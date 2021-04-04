@@ -1,14 +1,13 @@
 import React from "react"
-import {graphql} from "gatsby"
 import {
   Button,
   HeaderLogo,
   HeadingXL,
-  Image,
   Layout,
   SEO,
   TextBody,
 } from "../components"
+import imageAsset from '../assets/images/myexpertise.svg'
 
 export default function expertise({data}) {
   return (
@@ -17,7 +16,7 @@ export default function expertise({data}) {
       <HeaderLogo />
       <Layout>
         <HeadingXL>Expertise</HeadingXL>
-        <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
+        <img src={imageAsset} alt='Experience' />
         <TextBody>
         <strong>PROFESSIONAL COMPETENCIES</strong><br /> <br />
         Project Management<br />
@@ -55,15 +54,3 @@ Other - MS Office 365, OneNote, Sharepoint 365, Confluence, Zendesk, Kayako.
     </>
   )
 }
-
-export const data = graphql`
-  query {
-    RandomPhoto: file(relativePath: {eq: "assets/images/my_expertise.png"}) {
-      childImageSharp {
-        fluid(maxWidth: 1400) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
-      }
-    }
-  }
-`

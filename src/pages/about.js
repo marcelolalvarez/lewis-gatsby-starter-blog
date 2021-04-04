@@ -1,16 +1,15 @@
 import React from "react"
 import {Link} from "gatsby"
-import {graphql} from "gatsby"
 import {
   Button,
   HeaderLogo,
   HeadingXL,
-  HeadingL,
-  Image,
   Layout,
   SEO,
   TextBody,
 } from "../components"
+
+import imageAsset from '../assets/images/about.svg'
 
 export default function About({data}) {
   return (
@@ -19,7 +18,7 @@ export default function About({data}) {
       <HeaderLogo />
       <Layout>
         <HeadingXL>Full Stack E-commerce Project Manager</HeadingXL>
-        <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
+        <img src={imageAsset} alt='About' />
         <TextBody>
         A professional with strong experience in high functioning product development and project management environments. Highly adaptable with recognized talents working with E-Commerce solutions such as Magento as well as being proficient in aligning software requirements with innovative solutions to complex IT challenges. Continually on the forefront of developing trends integrating current and emerging cutting-edge technologies and peripheral processes to deliver impactful results.<br /><br />
         <Link to="/experience">
@@ -38,15 +37,3 @@ export default function About({data}) {
     </>
   )
 }
-
-export const data = graphql`
-  query {
-    RandomPhoto: file(relativePath: {eq: "assets/images/product_iteration.png"}) {
-      childImageSharp {
-        fluid(maxWidth: 1400) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
-      }
-    }
-  }
-`
