@@ -1,8 +1,9 @@
 import React from "react"
-import {Link} from "gatsby"
 import styled from "styled-components"
-import {FixedBar} from "../components"
-import {BREAKPOINT} from "../utils/constants"
+import { FixedBar } from "../components"
+import { BREAKPOINT } from "../utils/constants"
+import { MenuWrapper, Menu, MobileMenu } from './NavBar'
+import { DrawerProvider, DrawerComp} from './Drawer'
 
 const HeaderWrapper = styled(FixedBar)`
   justify-content: space-between;
@@ -17,13 +18,40 @@ const Logo = styled.p`
   }
 `
 
+const menuItems = [
+  {
+    label: 'Home',
+    url: '/'
+  },
+  {
+    label: 'About',
+    url: '/about'
+  },
+  {
+    label: 'Experience',
+    url: '/experience'
+  },
+  {
+    label: 'Expertise',
+    url: '/expertise'
+  },
+  {
+    label: 'Contact',
+    url: '/contact'
+  },
+]
 export function HeaderLogo() {
   return (
     <HeaderWrapper>
+      <MobileMenu>
+        <DrawerProvider>
+          <DrawerComp items={menuItems} />
+        </DrawerProvider>
+      </MobileMenu>
       <Logo>M.A.</Logo>
-      <Link to="/about">
-        <p>About</p>
-      </Link>
+      <MenuWrapper>
+        <Menu items={menuItems} />
+      </MenuWrapper>
     </HeaderWrapper>
   )
 }
