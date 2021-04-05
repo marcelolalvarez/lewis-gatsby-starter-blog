@@ -42,7 +42,7 @@ PeopleSoft Upgrade, MOBILE APPS, Universe of Faith. <br /><br />
 <strong>INFRASTRUCTURE</strong><br />
 Office 365 Migration for 1500+ accounts, Okta Applications Migration.
         </TextBody>
-        <Button href="mailto:marcelo.alvarez@me.com">Get in touch</Button>
+        <Button href="contact">Get in touch</Button>
       </Layout>
     </>
   )

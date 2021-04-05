@@ -1,7 +1,7 @@
 import React from "react"
 import {graphql} from "gatsby"
 import {
-  HeaderBack,
+  HeaderLogo,
   HeadingXL,
   Layout,
   SEO,
@@ -13,7 +13,7 @@ export default function BlogPost({data}) {
   return (
     <>
       <SEO title={data.markdownRemark.frontmatter.title} />
-      <HeaderBack />
+      <HeaderLogo />
       <Layout>
         <HeadingXL>{data.markdownRemark.frontmatter.title}</HeadingXL>
         <TextDate>{data.markdownRemark.frontmatter.date}</TextDate>

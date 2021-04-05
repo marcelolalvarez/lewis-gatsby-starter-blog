@@ -49,7 +49,7 @@ System Diagramming - Lucidchart, Microsoft Visio, Balsamiq
 Design - Photoshop
 Other - MS Office 365, OneNote, Sharepoint 365, Confluence, Zendesk, Kayako.
         </TextBody>
-        <Button href="mailto:marcelo.alvarez@me.com">Get in touch</Button>
+        <Button href="contact">Get in touch</Button>
       </Layout>
     </>
   )
