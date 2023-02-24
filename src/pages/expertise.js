@@ -38,7 +38,7 @@ Negotiation<br />
  Exec Communication<br />
        Outsourcing Specialist<br />
         Budget Proposals<br />
-Customer Satisfaction<br />
+Customer Satisfaction<br /><br />
 
         <strong>PLATFORM EXPERTISE</strong><br /><br />
         Project Management - Jira, Confluence, BaseCamp, Smartsheet, Microsoft Project.
