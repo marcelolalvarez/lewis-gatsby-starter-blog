@@ -12,14 +12,14 @@ import imageAsset from '../assets/images/myexperience.svg'
 export default function experience({data}) {
   return (
     <>
-      <SEO title="Marcelo Alvarez, Full Stack E-commerce Project Manager" />
+      <SEO title="Marcelo Alvarez, IT Infrastructure Project Manager" />
       <HeaderLogo />
       <Layout>
         <HeadingXL>Experience</HeadingXL>
         <img src={imageAsset} alt='Experience' />
         <TextBody>
         <strong>EMPLOYMENT</strong><br /><br />
-<strong>Pet Supermarket</strong> - February 2021 - Now: IT Project Manager/Business Analyst.<br />
+<strong>Pet Supermarket</strong> - February 2021 - Now: IT Infrastructure Project Manager.<br />
 <strong>HBO Latin America</strong> - September 2019 - February 2021: Technical Project Manager.<br />
 <strong>Deluxe</strong> - September 2019 - March 2019: Magento Technical Consultant - Cloud Hosting Platform.<br />
 <strong>Comodo</strong> - March 2019-August 2019: Partner Success Manager.<br />
