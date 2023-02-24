@@ -19,29 +19,29 @@ export default function expertise({data}) {
         <img src={imageAsset} alt='Experience' />
         <TextBody>
         <strong>PROFESSIONAL COMPETENCIES</strong><br /> <br />
-        Project Management<br />
-        Product Management<br />
-        Agile<br />
-        Waterfall<br />
+        Project Management (Waterfall, Agile)<br />
         SDLC<br />
-        Strategic Partnerships<br />
-        Usability Testing<br />
-        Web/Application Design<br />
-        SEO/SEM<br />
-        Agency Management<br />
-        Optimization<br />
-        Exec Communication<br />
-        Analytics<br />
-        Ecommerce Strategy<br />
-        Cloud<br />
-        Business Requirements<br />
-        Team Buildup<br />
-        Outsourcing Specialist<br />
+         Team Buildup<br />
+Cloud<br />
+IT Infrastructure Projects<br />
+Project Scope<br />
+Retail Infrastructure<br />
+Networking<br />
+Data Analytics<br />
+Telecom<br />
+Broadband<br />
+SLA<br />
+Diagrams<br />
+POS Systems<br />
+Payment Systems<br />
+Negotiation<br />
+ Exec Communication<br />
+       Outsourcing Specialist<br />
         Budget Proposals<br />
-        KPI Measurement<br /><br />
+Customer Satisfaction<br />
 
         <strong>PLATFORM EXPERTISE</strong><br /><br />
-        Project Management - Jira, Trello, BaseCamp, Smartsheet, Microsoft Project, Freedcamp.
+        Project Management - Jira, Confluence, BaseCamp, Smartsheet, Microsoft Project.
 Analytics - Google Analytics, WebTrends
 Ecommerce - Magento, Woocommerce
 CMS - Word Press, Drupal
