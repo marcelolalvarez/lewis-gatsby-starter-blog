@@ -14,7 +14,7 @@ import imageAsset from '../assets/images/about.svg'
 export default function About({data}) {
   return (
     <>
-      <SEO title="Marcelo Alvarez, Full Stack E-commerce Project Manager" />
+      <SEO title="Marcelo Alvarez, IT Infrastructure Project Manager" />
       <HeaderLogo />
       <Layout>
         <HeadingXL>Full Stack E-commerce Project Manager</HeadingXL>
