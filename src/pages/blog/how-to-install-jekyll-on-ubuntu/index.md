@@ -25,4 +25,4 @@ Run the following commands in Ubuntu to have Jekyll up and running in your syste
 8. bundle install
 9. bundle exec jekyll server (this will run the default site in your localhost. So fire your browser and go to http://localhost:4000)
 
-That’s it. You should be able to see a basic Jekyll site in your browser.
+That’s it. You should be able to see a basic Jekyll site in your browser. 
