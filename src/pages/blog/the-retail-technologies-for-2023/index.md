@@ -1,6 +1,6 @@
 ---
 title: "The Retail Technologies of 2023"
-date: "2023-3-28"
+date: "2023-03-28"
 ---
 
 As technology continues to advance and reshape our world, retailers are constantly seeking ways to improve the shopping experience for their customers. The use of new technologies in retail has led to significant improvements in both customer experience and business efficiency. Here are some of the most exciting new retail technologies:
